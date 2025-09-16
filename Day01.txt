@@ -1,0 +1,20 @@
+1.GIT에 회원가입
+https://github.com/
+구글 회원가입
+비번 찾기수월
+
+2. 구글 GIT.SCM
+https://git-scm.com/download
+윈도우 버전 다운 설치
+콘솔사용
+명령어 35 터득 어려움
+
+3. vs code 설치
+https://code.visualstudio.com/download
+윈도우 버전 다운 후 설치
+코딩 IDE(편집기) 설치
+WEB, APP, AI, GIT 다 가능
+(javascript. typescript, python) exc. c#
+
+ctrl+J 터미널열기 명령어 
+SHIFT + INS 붙여넣기
