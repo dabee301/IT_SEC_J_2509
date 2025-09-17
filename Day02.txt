@@ -1,0 +1,56 @@
+git config --global user.name "user name"
+-git 이라는 기능에서 (우리가 설치한 git scm) config(설정)을 
+--global 조정
+user 객체에 name속성 "user name" 저장
+
+git config --global user.gmail "email"
+
+이걸 script 명령어라고 지칭
+
+python. node  실행 시 스크립트 명령어 이용
+
+스크립트 명령어는 마우스나 버튼 클릭보다 어려움
+but 강력한 기능 내포
+
+프로그래밍 언어는 많다
+
+사용은
+*자바스크립트
+*파이썬
+*c++, c#
+*자바스크립트
+
+예전에는 프로그래밍 언어가 유료
+but 자바는 무료 제공 (~2009)
+2009년 oracle에 인수, 자바는 안좋아짐
+발전 멈춤
+문제는 2009년 전까지 개발된 시스템은 전부 자바
+한국에선 전자정부 프레임워크라는 국가 프로젝트 진행
+해외 또한 자바로 대형 솔루션 만드는작업을 진행
+
+2011년부터 자바는 유료전환. 굉장히 골치 아픔
+다른 언어들은 전부 무료전환(c계열 언어들. 파이썬, 자바스크립트)
+
+파이썬 python software foundation(PSF) 재단이 관리
+- 체계적이지 않음
+
+자바스크립트(타입스크립트)-UPGRADE VER., C계열 언어- 마이크로소프트가 관리
+개발자는 구글보단 마이크로소프타와 친함
+
+구글은 FLUTTER(DART) 언어 개발, 반응 SOSO
+
+JAVASCRPT ISTL
+언어 사용을 위해 라이브러리 설치. 라이브러리(기존의 언어)
+
+https://nodejs.org/ko/download
+javascript 라이브러리(언어 설치)
+
+sth.js file 
+sth.txt for memo
+.js is only for javascript
+자바스크립트 코드만 사용
+
+test1.js 파일 생성
+test1.js 가 있는 경로에서 터미널 열고
+node test1.js 했더니 뭔가 실행
+it means the code has worked properly
